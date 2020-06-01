@@ -1,0 +1,13 @@
+C:\Users\parra\OneDrive\Documentos\Senai\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.exe
+C:\Users\parra\OneDrive\Documentos\Senai\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.deps.json
+C:\Users\parra\OneDrive\Documentos\Senai\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.runtimeconfig.json
+C:\Users\parra\OneDrive\Documentos\Senai\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.runtimeconfig.dev.json
+C:\Users\parra\OneDrive\Documentos\Senai\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Users\parra\OneDrive\Documentos\Senai\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\Users\parra\OneDrive\Documentos\Senai\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csprojAssemblyReference.cache
+C:\Users\parra\OneDrive\Documentos\Senai\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\parra\OneDrive\Documentos\Senai\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfo.cs
+C:\Users\parra\OneDrive\Documentos\Senai\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\parra\OneDrive\Documentos\Senai\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Users\parra\OneDrive\Documentos\Senai\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\Users\parra\OneDrive\Documentos\Senai\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.genruntimeconfig.cache
